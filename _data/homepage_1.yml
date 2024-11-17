@@ -1,8 +1,8 @@
 ######################### Hero Area ##############################
 hero_area:
   background_image : "/assets/images/bg/banner-2.png"
-  subtitle: "MY NAME IS Jessica Alba"
-  title : "I am a creative <br>UI/UX Designer <br>from London."
+  subtitle: "Noelia Chaparro Puente"
+  title : "Reconectando con el entorno"
   content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
   image : "/assets/images/banner/banner-img-2.png"
   button:
@@ -12,17 +12,17 @@ hero_area:
 
 ########################### Service ##############################
 services:
-- title : "Brand Design"
-  icon : "ti-ruler-pencil"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+- title : "Documentación del patimonio"
+  icon : "ti-book"
+  content : "Investigación sobre el patrimonio geológico, natural, arqueológico, histórico y cultural."
 
-- title : "Seo & Marketing"
-  icon : "ti-announcement"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+- title : "Promoción del patrimonio"
+  icon : "ti-map-alt"
+  content : "Creación de rutas autoguiadas, folletos informativos y guías de campo."
 
-- title : "Creative Design"
-  icon : "ti-palette"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+- title : "Educación ambiental"
+  icon : "ti-wand"
+  content : "Organización de cursos y talleres."
 
 
 ########################### Testimonial ###########################
