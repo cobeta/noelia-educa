@@ -1,10 +1,10 @@
 ######################### Hero Area ##############################
 hero_area:
   background_image : "/assets/images/bg/banner-2.png"
-  subtitle: "Noelia Chaparro Puente"
-  title : "Reconectando con el entorno"
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
-  image : "/assets/images/banner/banner-img-2.png"
+#  subtitle: "Noelia Chaparro Puente"
+  title : "Noelia Chaparro Puente"
+  content : "Consultoria para el redescubrimiento y la divulgación del patrimonio"
+#  image : "/assets/images/banner/banner-img-2.png"
   button:
     enable : true
     label : "contact me"
