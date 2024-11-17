@@ -1,6 +1,6 @@
 ######################### Hero Area ##############################
 hero_area:
-  background_image : "/assets/images/bg/arizonica.jpeg"
+  background_image : "/assets/images/banner/arizonica.jpeg"
 #  subtitle: "Noelia Chaparro Puente"
   title : "Noelia Chaparro Puente"
   content : "Consultoria para el redescubrimiento y la divulgación del patrimonio"
