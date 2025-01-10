@@ -7,7 +7,7 @@ address: "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
 author: themefisher
 description: >- # this means to ignore newlines
   Dizer - Multipurpose Business & Corporate Jekyll Template Jekyll Theme For Mobile Apps Download Landing Page And Blogging.
-logo: "/assets/images/NOE_forest_green_large.noe"
+logo: "/assets/images/NOE_forest_green_large.png"
 logo_icon: "/assets/images/NOE_forest_green_large.png"
 # contact form action
 contact_form_action: "#" # works with https://fomrspree.io

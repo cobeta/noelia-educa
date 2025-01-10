@@ -6,6 +6,7 @@
 			<div class="col-lg-4 col-md-6 {% unless forloop.last %}border-right{% endunless %}">
 				<div class="service-item mb-4 mb-lg-0 text-center px-4">
 					<i class="{{ service.icon }} text-color icon-md"></i>
+					<img src="{{ service.url | relative_url }}" alt="">
 					<h4 class="my-4">{{ service.title }}</h4>
 					<p>{{ service.content }}</p>
 				</div>

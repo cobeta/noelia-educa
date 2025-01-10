@@ -12,16 +12,16 @@ hero_area:
 
 ########################### Service ##############################
 services:
-- title : "Documentación del patimonio"
-  icon : "ti-book"
-  content : "Investigación sobre el patrimonio geológico, natural, arqueológico, histórico y cultural."
+- title : "Educación ambiental"
+  url : "/assets/images/services/image1.png"
+  content : "Diseño actividades para familias, niños y jóvenes que combinan diversión y educación: rutas interpretativas, talleres prácticos, gymkhanas, escape rooms ambientales, cuadernos de campo adaptados y mucho más."
 
 - title : "Promoción del patrimonio"
-  icon : "ti-map-alt"
+  url : "/assets/images/services/image2.png"
   content : "Creación de rutas autoguiadas, folletos informativos y guías de campo."
 
-- title : "Educación ambiental"
-  icon : "ti-wand"
+- title : ""
+  url : "/assets/images/services/image3.png"
   content : "Organización de cursos y talleres."
 
 
