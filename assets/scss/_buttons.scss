@@ -22,24 +22,24 @@
 }
 
 .btn-primary {
-  background: $primary-color;
+  background: $main-orange;
   color: $white;
-  border-color: $primary-color;
+  border-color: $main-orange;
 
   &:hover,
   &:active,
   &.focus,
   &.active {
-    background: $secondary-color !important;
-    border-color: $secondary-color !important;
-    color: $white !important;
+    background: $main-orange-dark !important;
+    border-color: $main-orange-dark !important;
+    color: $main-orange-very-light !important;
   }
 }
 
 .btn-secondary {
-  background: $secondary-color;
-  border-color: $secondary-color;
-  color: $white;
+  background: $main-orange-dark;
+  border-color: $main-orange-dark;
+  color: $main-orange-very-light;
 
   &:hover,
   &:active,

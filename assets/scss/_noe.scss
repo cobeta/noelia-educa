@@ -1,3 +1,5 @@
+
+
 .banner-image {
     aspect-ratio: 16 / 9;
     width: 100%;
@@ -7,6 +9,8 @@
 }
 
 .banner-card {
-    background-color: black;
+    background-color: $main-green-dark;
     padding: 10px;
+    border-radius: 20px;
+    width: fit-content;
 }

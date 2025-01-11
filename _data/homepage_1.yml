@@ -16,13 +16,13 @@ services:
   url : "/assets/images/services/image1.png"
   content : "Diseño actividades para familias, niños y jóvenes que combinan diversión y educación: rutas interpretativas, talleres prácticos, gymkhanas, escape rooms ambientales, cuadernos de campo adaptados y mucho más."
 
-- title : "Promoción del patrimonio"
-  url : "/assets/images/services/image2.png"
-  content : "Creación de rutas autoguiadas, folletos informativos y guías de campo."
-
-- title : ""
+- title : "Redescubrir el patrimonio"
   url : "/assets/images/services/image3.png"
-  content : "Organización de cursos y talleres."
+  content : "Doy voz a la memoria de la tierra a través de proyectos que investigan e interpretan su historia, cultura y paisaje. Creo mapas temáticos, diseño rutas autoguiadas y desarrollo guías especializadas, todo adaptado para conectar personas con el patrimonio de una forma única."
+
+- title : "Patrimonio intangible"
+  url : "/assets/images/services/image2.png"
+  content : "Cada historia, cada rincón y cada tradición guardan secretos que no deben olvidarse. Encuentro un puente entre el pasado y el presente para que sigan vivos, trabajando por preservar el legado intangible que nos conecta con nuestras raíces."
 
 
 ########################### Testimonial ###########################

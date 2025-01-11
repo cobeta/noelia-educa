@@ -1,5 +1,5 @@
 .bg-primary {
-	background: $primary-color !important;
+	background: $main-orange-very-light !important;
 }
 
 .bg-secondary {
@@ -16,6 +16,10 @@
 
 .text-color {
 	color: $primary-color;
+}
+
+.text-orange-very-light {
+	color: $main-orange-very-light;
 }
 
 .text-black {
