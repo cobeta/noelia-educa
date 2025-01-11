@@ -3,7 +3,7 @@ hero_area:
   background_image : "/assets/images/banner/6.jpg"
 #  subtitle: "Noelia Chaparro Puente"
   title : "Noelia Chaparro Puente"
-  content : "Educadora ambiental y creadora de proyectos para redescubrir y proteger el patrimonio"
+  content : "Educadora ambiental y creadora de proyectos&#10;para redescubrir y proteger el patrimonio"
 #  image : "/assets/images/banner/banner-img-2.png"
   button:
     enable : true
