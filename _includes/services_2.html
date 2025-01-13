@@ -7,8 +7,9 @@
 				<div class="service-item mb-4 mb-lg-0 text-center px-4">
 					<img class="service-img service-img-{{ forloop.index }}" src="{{ service.url | relative_url }}" alt="">
 					<h4 class="my-4">{{ service.title }}</h4>
-					<p>{{ service.content }}</p>
+					
 				</div>
+				<p>{{ service.content }}</p>
 			</div>
 			{% endfor %}
 			</div>

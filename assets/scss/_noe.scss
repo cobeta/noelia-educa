@@ -8,27 +8,51 @@
 }
 
 .banner-card {
-    background-color: $main-green-dark;
+    background-color: rgba($main-green-dark, 0.7);
     padding: 10px;
     border-radius: 20px;
     width: fit-content;
 }
 
+.service-item {
+    position: relative; /* Makes it possible to position children relative to this container */
+}
+
+.service-img {
+    width: 100%; /* Ensures the image fits the container */
+    height: auto;
+    display: block;
+}
+
+.service-item h4 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;     /* Add some padding for readability */
+    color: white;      /* Make text readable on dark background */
+    text-align: center;
+    font-size: 2.3em;
+    line-height: 1;
+    text-shadow:
+        1px 1px 2px black,    /* Top-left shadow */
+        -1px -1px 2px black,  /* Bottom-right shadow */
+        1px -1px 2px black,   /* Top-right shadow */
+        -1px 1px 2px black;   /* Bottom-left shadow */
+  }
+
 .service-img-1 {
     border: 12px solid $main-green;
-    border-radius: 10px; /* Optional */
+    border-radius: 10px; 
 }
 
 .service-img-2 {
     border: 12px solid $main-orange;
-    border-radius: 10px; /* Optional */
+    border-radius: 10px; 
 }
 
 .service-img-3 {
     border: 12px solid $main-purple;
-    border-radius: 10px; /* Optional */
+    border-radius: 10px; 
 }
 
-.service-img {
-    width: 200px;
-}
