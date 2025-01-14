@@ -3,8 +3,10 @@
 .banner-image {
     width: 100%;
     position: absolute;
-    left: 0;
+    left: 50%;
     top: 0;
+    transform: translateX(-50%);
+    max-width: 1140px;
 }
 
 .banner-card {
@@ -22,6 +24,7 @@
     width: 100%; /* Ensures the image fits the container */
     height: auto;
     display: block;
+    border-radius: 10px; 
 }
 
 .service-item h4 {
@@ -41,18 +44,6 @@
         -1px 1px 2px black;   /* Bottom-left shadow */
   }
 
-.service-img-1 {
-    border: 12px solid $main-green;
-    border-radius: 10px; 
-}
-
-.service-img-2 {
-    border: 12px solid $main-orange;
-    border-radius: 10px; 
-}
-
-.service-img-3 {
-    border: 12px solid $main-purple;
-    border-radius: 10px; 
-}
-
+  .service-2 p {
+    color: white;
+  }
